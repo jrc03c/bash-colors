@@ -22,13 +22,13 @@ All of the following are callable as functions that take a single string argumen
 **Text modifications:**
 
 ```
-color.mods.reset
-color.mods.bright
-color.mods.dim
-color.mods.underscore
-color.mods.blink
-color.mods.reverse
-color.mods.hidden
+color.fx.reset
+color.fx.bright
+color.fx.dim
+color.fx.underscore
+color.fx.blink
+color.fx.reverse
+color.fx.hidden
 ```
 
 **Foreground colors:**

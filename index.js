@@ -1,7 +1,7 @@
 const reset = "\x1b[0m"
 
 const color = {
-  mods: {
+  fx: {
     reset: x => reset + x + reset,
     bright: x => "\x1b[1m" + x + reset,
     dim: x => "\x1b[2m" + x + reset,
