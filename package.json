@@ -1,6 +1,6 @@
 {
   "name": "@jrc03c/bash-colors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a less-well-made clone of `chalk`",
   "main": "index.js",
   "keywords": [
@@ -12,5 +12,8 @@
     "js"
   ],
   "author": "jrc03c",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "pub": "npm version patch --force && npm publish --access=public"
+  }
 }
