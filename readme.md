@@ -1,3 +1,7 @@
+> ⚠️ **NOTE:** ⚠️ This project is being merged into a monorepo [here](https://github.com/jrc03c/monorepo/tree/main/packages/bash-colors). This repo will soon be archived.
+
+---
+
 # Intro
 
 `bash-colors` is a little package for Node for printing text in colors. It's like [`chalk`](https://github.com/chalk/chalk), only less well-made.
